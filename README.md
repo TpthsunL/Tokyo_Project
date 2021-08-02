@@ -1,7 +1,7 @@
 # Tokyo_Project
 
 
-https://nbviewer.jupyter.org/
+https://nbviewer.jupyter.org/github/TpthsunL/Tokyo_Project/blob/main/Tokyo_olympic.ipynb
 
 
 
