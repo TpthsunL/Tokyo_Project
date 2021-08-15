@@ -13,12 +13,12 @@
 
 ---
 
-#### 깃허브에 게시된 Tokyo_Olympic 주피터 노트북이 실행되지 않으므로 아래 주소를 클릭하면 됩니다. 
-- Tokyo_Olympic 
+#### 깃허브에 게시된 Tokyo_Olympic 주피터 노트북이 실행되지 않으므로 아래 주소를 클릭하면 됩니다. <br>
+- Tokyo_Olympic <br>
 https://nbviewer.jupyter.org/github/TpthsunL/Tokyo_Project/blob/main/Tokyo_olympic.ipynb
 
-#### 데이터 크롤링
--> 사용한 사이트 : '나무위키', 'KBO_기록실', 야구 기록 전문사이트 'STATIS'
+#### 데이터 크롤링<br>
+-> 사용한 사이트 : '나무위키', 'KBO_기록실', 야구 기록 전문사이트 'STATIS'<br>
 -> 사용한 툴 : 셀레늄, beautifulsoup
 
 
